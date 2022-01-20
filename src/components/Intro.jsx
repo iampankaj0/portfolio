@@ -22,17 +22,17 @@ const Intro = () => {
                             {/* <p className='mb-0'>
                                 Hire me For <span> Web Developement </span>
                             </p> */}
-                            <div class="content">
-                              <div class="content__container">
-                                    <p class="content__container__text">
+                            <div className="content">
+                              <div className="content__container">
+                                    <p className="content__container__text">
                                         Hire me For
                                     </p>
                                                         
-                                    <ul class="content__container__list">
-                                      <li class="content__container__list__item">Web Designing</li>
-                                      <li class="content__container__list__item">Web Development</li>
-                                      <li class="content__container__list__item">Managing Your Website</li>
-                                      <li class="content__container__list__item">IT Solutions</li>
+                                    <ul className="content__container__list">
+                                      <li className="content__container__list__item">Web Designing</li>
+                                      <li className="content__container__list__item">Web Development</li>
+                                      <li className="content__container__list__item">Managing Your Website</li>
+                                      <li className="content__container__list__item">IT Solutions</li>
                                     </ul>
                               </div>
                             </div>
